@@ -3,7 +3,7 @@ import chalk from "chalk";
 const promptQRCode = [
   {
     name: "link",
-    description: chalk.green("Digite o link para gerar o QR CODE."),
+    description: chalk.green("Digite o link para gerar o QR CODE"),
   },
 
   {
